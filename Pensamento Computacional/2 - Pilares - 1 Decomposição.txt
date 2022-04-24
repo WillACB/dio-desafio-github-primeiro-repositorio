@@ -1,0 +1,95 @@
+2 - Pilares
+
+É preciso compreender como executar cada etapa de um pensamento computacional.
+Dessa forma, esta aula é dedicada à compreensão individual de cada pilar desse processo de pensamento.
+
+1 * Decomposição 
+Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional
+
+Dado um problema complexo, devemos quebrar em problemas menores. Portanto, problemas mais fáceis e gerenciáveis”
+
+Estratégia: Processo de quebrar e determinar partes menores e gerenciáveis - 
+
+*Análise:
+
+Estudar, explorar
+Realizar exame detalhado
+Decompor em elementos constituintes 
+
+*Síntese
+
+Processo de reconstrução
+Fundir os elementos de maneira coerente
+Consiste em reunir elementos distintos em um único elemento.
+
+Ordem da execução de tarefas menores
+
+*Sequencial - dependência entre as tarefas executadas em fila
+Paralelo
+*Paralelo - Tarefas podem ser executadas concomitantemente
+
+______________
+
+Variáveis
+Pequenos problemas
+Segmentação
+
+Como decompor? 
+
+Entender o problema
+
+Componentes 
+Características dependentes
+
+2º plano problema principal.
+
+_______________________
+
+Como decompor?
+
+Identificar ou coletar dados
+
+Agregar os dados
+
+Funcionalidade
+
+Exemplo: Receita
+
+Identificar os ingredientes
+Determinar as etapas (Sequenciais ou paralelas
+Executar cada etapa
+Agregar os ingredientes para finalizar (Recompor coerência)
+
+Exemplo 2:Funcionamento de uma bike
+
+Identificar os componentes;
+Papel de cada componente;
+Interdependência das peças;
+Funcionamento do sistema;
+
+Exemplo 3 - Criar um app
+
+Definição de componentes e etapas:
+
+Finalidade
+Interface
+Funcionalidades
+pré requisitos
+
+Exemplo 4 - Artigo
+
+Definição de componentes e etapas?
+
+O que será abordado?
+Estrutura
+Conteúdo de cada tópico
+Texto de conexão;
+
+Exemplo de um funcionamento de um avatar:
+
+Ações/ Padrão e Movimento
+Padrão/ virar e mover
+Virar/ Direita ou esquerda
+Mover / Cima ou baixo
+Movimento / Andar, Correr, sentar, levantar
+

@@ -1,0 +1,54 @@
+1 -Visão Geral do pensamento computacional
+
+Você será capaz de entender o que significa pensar computacionalmente.
+Pensamento aplicável a qualquer área do conhecimento.
+
+Você será capaz de resolver qualquer problema de uma maneira mais objetiva e eficiente.
+
+
+2º Etapa: Habilidades complementares
+
+Raciocínio lógico é a forma de pensamento estruturado, pou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+
+Habilidade de treinamento
+
+Classificação:
+
+1 Indução -  Fenômeno observado
+2 Abdução - Conclusão - premissa. - Processo investigativo e Diagnóstico
+3 Dedução - Previsão e explicação
+
+Inferência / sintética / Abdução e Indução;
+Inferência / Analitica / Dedução;
+
+Exemplo de Raciocínio lógico:
+
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa.
+Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. 
+Sabe-se que o pai está à frente de Fernanda e o filho à esquerda; e que a mãe está do lado direito de Sérgio.
+
+Aperfeiçoamento: ( A partir de uma solução determinar pontos de melhoramento e refinamento)
+
+Melhoramento
+Aprimoramento
+Ato de aperfeiçoar
+Refinamento;
+
+Ato de Aperfeiçoar:
+
+Encontrar soluções eficientes - Melhor uso de recursos
+Otimizar processos - Melhor uso de recursos
+Simplificar linhas de códigos -  melhorar códigos e algoritmos
+Funções bem definidas - melhorar códigos e algoritmos
+
+Processo contínuo
+Presente em todas as etapas
+
+Vantagens:
+Marios compreensão
+Mais eficiência
+Menos tempo
+Menos armazenamento
+
+Ciclo devolve solução e aperfeiçoa
+
