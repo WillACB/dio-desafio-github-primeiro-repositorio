@@ -4,6 +4,6 @@ Repositório criado para o desafio do Projeto.
 ## Links úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[FLUXOGRAMA DE SIMULACAO DE PROCESSO DE PROGRAMACAO](http://www.flowgorithm.org/download/)
+[Fluxogramas de Simulação de processo de programação](http://www.flowgorithm.org/download/)
 
-[PORTUGOL STUDIO - PSEUDOLINGUAGEM](http://lite.acad.univali.br/portugol/)
+[Portugal Studio - Pseudolinguagem](http://lite.acad.univali.br/portugol/)
