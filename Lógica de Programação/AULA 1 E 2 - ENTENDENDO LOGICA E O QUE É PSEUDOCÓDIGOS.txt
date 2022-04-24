@@ -1,0 +1,41 @@
+1º ENTENDENDO LOGICA
+
+- Raciocinio Logico: Coerencia de raciocionio de ideias;
+* melhor alterantiva de sequencias de ações para reolução d eum probelma
+*Logica de programação é mais importante do que criar código
+* Saber as informações necessa´rias para resolução do problema;
+
+- metacognição - pensar como você pensar;
+
+- Abstração - Se concetrar em aspectos essenciais, ignorando caracteristicas 
+menos importantes. 
+*Trabalhar abstração em um mapa mental;
+* Simplificar um problema resolvido por outras formas 
+mais simplificadas no mapa mental. As Vezes não será possivel;
+
+2º O que são Algoritimos e pseudocódigos?
+
+-aLGORITRIMO: É UMA SEQUENCIA DE PASSOS PARA RESOLVER UM PROBLEMA;
+
+EX: iNCIO-
+	aCORDEI;
+	levantei;
+	troquei de roupa;
+	escobei os dentes
+	fui a padaria;
+	tomei café;
+	escovei os dentes
+	fui ao trabalho
+Fim do dia;
+
+
+*respeitar a ordem dos passos, e se alterado pode dar problema;
+
+-Pseudocódigo: um forma generica de um algoritimo de forma 
+simples, nativa (em portiguês) para ser aprendido por qualquer pessoa.
+Os comando serão usados só para iniciantes aprederem mas os códigos reais
+no dia a dia mesmo são em inglês;
+
+
+
+
